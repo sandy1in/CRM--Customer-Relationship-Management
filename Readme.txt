@@ -1,22 +1,2 @@
-How to run the Small CRM  Project
-1. Download the  zip file
-
-2. Extract the file and copy crm folder
-
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
-
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-5. Create a database with name crm
-
-6. Import crm.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/crm (frontend)
-
-8.Run the script http://localhost/crm/admin 
-
-Credential for admin panel :
-
-Username: admin
-Password: admin
-
+# CRM Customer Relationship Management
+This project consists of a software tool that is used for customer relationship management. The customer relationship management tools or CRM are used in KPOs and BPOs. These are integrated, data-driven software that improves the communication between product/service representatives and customers. It has profile management, a ticketing system, requesting quotes, user registration, etc.
